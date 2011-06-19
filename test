@@ -11,3 +11,5 @@ remote 3
 local 3
 
 remote 4
+
+localbranch 1
