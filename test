@@ -19,3 +19,5 @@ local 5
 localbranch 2
 
 remote testbranch
+
+remote branch 2
